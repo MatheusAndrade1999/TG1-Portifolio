@@ -44,9 +44,7 @@ Por fim, trabalhei continuamente para tornar o site totalmente responsivo, garan
 |------------|-----------------------|--------------------------------------------------------------------------|
 | **HTML**   | Autônomo             | Construção semântica e acessível de páginas.                             |
 | **CSS**    | Autônomo             | Desenvolvimento de layouts responsivos (Flexbox/Grid).                   |
-| **Flask**  | Ouvi falar            | Criação de rotas, templates e funcionalidades web.                       |
-| **Python** | Com apoio             | Lógica de backend, automações e manipulação de dados.                    |
-| **AWS**    | Com apoio            | Configuração de ambiente e deploy em EC2.                                |
+| **Python** | Com apoio             | Lógica de backend.                    |
 | **Git**    | Com apoio             | Versionamento, branches e integração entre equipes.                      |
 | **Figma**  | Consigo ensinar            | Criação de protótipos e interfaces.                                      |
 
