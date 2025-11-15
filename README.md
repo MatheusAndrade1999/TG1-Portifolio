@@ -31,7 +31,7 @@ Atuo com um olhar estratégico e orientado a resultados, buscando sempre aprimor
 
 # 🚀 Projetos
 
-Abaixo estão as seções expansíveis com o conteúdo completo dos projetos que você enviou. Mantenha, edite e personalize conforme necessário.
+Abaixo estão as seções expansíveis com o conteúdo completo dos meus projetos. Clique para abrir e ter todo o conteúdo da API referente a cada semestre.
 
 ---
 
