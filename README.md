@@ -27,9 +27,39 @@ Atualmente, atuo como Estagiário Analista de Dados na DM, onde desenvolvo relat
 
 Atuo com um olhar estratégico e orientado a resultados, buscando sempre aprimorar processos, construir soluções escaláveis e colaborar com equipes de forma organizada e objetiva. Acredito que tecnologia só é poderosa quando realmente melhora a experiência das pessoas — e é isso que me motiva a evoluir continuamente.
 
+# Histórico Profissional
+
+LOREM IPSUM
+
+
+## 📞 Contato
+
+- 🌐 **LinkedIn:** [Matheus Andrade](https://www.linkedin.com/in/matheus-andrade-santos/)
+- 🐙 **GitHub:** [MatheusAndrade1999](https://github.com/MatheusAndrade1999)
+- ✉️ **E-mail:** [matheusluiz194@gmail.com](mailto:matheusluiz194@gmail.com)
+
+# Principais Conhecimentos
+
+# 🧠 Habilidades
+
+## 🧩 Hard Skills
+- React, Node.js, TypeScript, JavaScript  
+- PostgreSQL, MySQL  
+- Modelagem de dados e implementação de CRUD  
+- Prototipação no Figma  
+- Versionamento com Git
+- Python voltado a dados (Pandas e Openpyxl)
+
+## 🤝 Soft Skills
+- Liderança e visão de produto  
+- Comunicação clara e alinhamento de expectativas  
+- Organização de backlog e priorização  
+- Adaptação a mudanças e resolução de conflitos
+
+
 ---
 
-# 🚀 Projetos
+# 🚀 Projetos API
 
 Abaixo estão as seções expansíveis com o conteúdo completo dos meus projetos. Clique para abrir e ter todo o conteúdo da API referente a cada semestre.
 
@@ -43,19 +73,19 @@ Abaixo estão as seções expansíveis com o conteúdo completo dos meus projeto
 
 ---
 
-### 🚧 Contexto do Projeto  
+### 🚧 Problema 
 A empresa parceira identificou dificuldades significativas na adoção do framework ágil **Scrum**. A falta de domínio sobre papéis, cerimônias e artefatos tem causado falhas de comunicação, retrabalho e atrasos, prejudicando diretamente a colaboração entre as equipes e a qualidade das entregas.
 
 ---
 
-### 💡 Proposta Desenvolvida  
+### 💡 Solução
 O projeto consistiu na construção de uma aplicação web para **capacitação em Scrum**, incluindo funcionalidades voltadas à **avaliação interna dos membros da equipe**. A proposta busca auxiliar profissionais na compreensão e aplicação prática do framework em suas rotinas de trabalho.
 
-🔗 **Repositório:** [Phoenix Team – ScrumTutor](https://github.com/Phoenix-Team-Fatec/ScrumTutor)
+🔗 **Link do Repositório Git:** [Phoenix Team – ScrumTutor](https://github.com/Phoenix-Team-Fatec/ScrumTutor)
 
 ---
 
-### 🛠️ Tecnologias Empregadas
+### 🛠️ Tecnologias Utilizadas
 
 | Ferramenta  | Utilização                                                                 |
 |-------------|-----------------------------------------------------------------------------|
@@ -69,7 +99,7 @@ O projeto consistiu na construção de uma aplicação web para **capacitação 
 
 ---
 
-### 👨‍💻 Minhas Entregas no Projeto  
+### 👨‍💻 Contribuições Pessoais 
 Participei de forma integral no desenvolvimento do front-end do projeto (utilizando CSS e HTML). Fui responsável pela implementação completa da página de avaliação PACER, estruturando um sistema de avaliação baseado em múltiplas checkboxes, permitindo que o usuário atribuísse notas de forma simples e selecionasse o membro da equipe a ser avaliado (Protótipo feito no FIGMA).
 
 Além disso, contribuí na criação da funcionalidade de envio das avaliações PACER por e-mail, ampliando a utilidade prática da ferramenta. Também desenvolvi a logomarca oficial do ScrumTutor (Utilizando o FIGMA) e atuei de maneira ativa nas decisões relacionadas ao front-end, oferecendo direcionamentos visuais, sugestões de usabilidade e aprimoramentos.
@@ -108,20 +138,20 @@ Por fim, trabalhei continuamente para tornar o site totalmente responsivo, garan
 
 ---
 
-### 🚧 Contexto do Projeto  
+### 🚧 Problema  
 A empresa parceira enfrentava recorrentes dificuldades no processo de consulta e extração de dados do seu banco corporativo. As informações eram obtidas manualmente, por meio de um fluxo pouco eficiente, o que gerava divergências nos resultados, falta de padronização e atrasos nas atividades internas. Esse cenário comprometeu a confiabilidade das análises e impactou diretamente a tomada de decisões estratégicas.
 
 ---
 
-### 💡 Proposta Desenvolvida  
+### 💡 Solução  
 Para solucionar essas limitações, foi criada uma aplicação desktop integrada a um **modelo de linguagem (LLM)**. Por meio de comandos em **linguagem natural**, o usuário pode consultar o banco de dados de forma intuitiva, sem depender de conhecimento técnico específico.  
 O sistema também permite a utilização de diferentes modelos de linguagem, tornando a ferramenta flexível e adaptável a diferentes cenários operacionais.
 
-🔗 **Repositório:** [Phoenix Team – DataEase](https://github.com/Phoenix-Team-Fatec/DataEase?tab=readme-ov-file)
+🔗 **Link do Repositório do Git:** [Phoenix Team – DataEase](https://github.com/Phoenix-Team-Fatec/DataEase?tab=readme-ov-file)
 
 ---
 
-### 🛠️ Tecnologias Empregadas
+### 🛠️ Tecnologias Utilizadas
 
 | Ferramenta        | Utilização                                                                                  |
 |-------------------|----------------------------------------------------------------------------------------------|
@@ -134,7 +164,7 @@ O sistema também permite a utilização de diferentes modelos de linguagem, tor
 
 ---
 
-### 👨‍💻 Minhas Entregas no Projeto  
+### 👨‍💻 Contribuições Pessoais  
 Atuei como **Product Owner**, conduzindo a definição clara das necessidades do cliente, priorizando o backlog e garantindo que cada entrega estivesse alinhada ao valor esperado pela empresa parceira.  
 Fui responsável por transformar demandas em requisitos estruturados, acompanhar a capacidade do time e assegurar que as funcionalidades planejadas fossem entregues com qualidade.  
 Além disso cuidei da parte visual, criação de protótipo no figma e toda a identidade visual do projeto, sua logo e cores utilizadas.  
@@ -174,12 +204,12 @@ Criei também a sidebar da aplicação utilizando Java.
 
 ---
 
-### 🚧 Contexto do Projeto  
+### 🚧 Contribuições Pessoais  
 O time de Recursos Humanos da empresa parceira enfrentava limitações para acompanhar o clima organizacional e entender o nível de satisfação dos colaboradores. A falta de um processo sistematizado de coleta de feedback e as falhas na comunicação interna dificultavam a leitura das percepções da equipe, ocasionando perda de engajamento e afetando a colaboração entre os setores.
 
 ---
 
-### 💡 Proposta Desenvolvida  
+### 💡 Solução  
 Foi criada uma aplicação web voltada ao monitoramento de pesquisas internas, oferecendo dashboards interativos com métricas e gráficos que facilitam a interpretação dos resultados.  
 O sistema permite criar pesquisas de forma manual, além de gerenciar equipes, usuários e formulários através de uma interface simples e organizada.
 
@@ -202,7 +232,7 @@ Além disso, esse modo apresenta gráficos comparativos, permitindo visualizar a
 
 ---
 
-### 🛠️ Tecnologias Empregadas
+### 🛠️ Tecnologias Utilizadas
 
 | Tecnologia     | Funcionalidade                                                                                                           |
 |----------------|---------------------------------------------------------------------------------------------------------------------------|
@@ -216,7 +246,7 @@ Além disso, esse modo apresenta gráficos comparativos, permitindo visualizar a
 
 ---
 
-### 👨‍💻 Minhas Entregas no Projeto  
+### 👨‍💻 Contribuições Pessoais  
 Atuei de forma predominante no desenvolvimento do front-end do sistema, utilizando principalmente **React**. Conduzi a **prototipação completa** da aplicação, elaborei a **identidade visual**, defini a **paleta de cores** e desenvolvi a **logo** oficial do projeto. Minhas contribuições envolveram desde a concepção da experiência do usuário até a implementação visual das principais telas.
 
 ---
@@ -255,10 +285,10 @@ Atuei de forma predominante no desenvolvimento do front-end do sistema, utilizan
 **Empresa**: FAPG (Fundação de Apoio à Pesquisa e Gestão)  
 **Área de atuação**: Pós-graduação e projetos de pesquisa
 
-### 🚧 Contexto do Projeto  
+### 🚧 Problema  
 A instituição enfrentava dificuldades no acompanhamento de seus projetos devido à ausência de processos padronizados de planejamento e controle. Essa falta de organização resultava em falhas no levantamento de requisitos, atrasos constantes e pouca clareza na distribuição dos recursos financeiros, prejudicando a eficiência da gestão e a tomada de decisão.
 
-### 💡 Proposta Desenvolvida 
+### 💡 Solução 
 Foi desenvolvida uma aplicação web para centralizar e organizar o gerenciamento dos projetos. A plataforma permite registrar informações essenciais — título, descrição, prazos, orçamento e equipe — além de criar etapas e tarefas atribuídas a membros específicos, facilitando o acompanhamento do progresso.  
 O sistema conta com uma área de lixeira que mantém projetos excluídos por até 30 dias.  
 As tarefas são apresentadas em uma tabela que exibe prazos, status e o projeto associado.  
@@ -266,7 +296,7 @@ Também foi implementado um chatbot para alterar o status das atividades para �
 
 ##### [Repositório](https://github.com/Phoenix-Team-Fatec/API-4)
 
-### 🛠️ Tecnologias Empregadas
+### 🛠️ Tecnologias Utilizadas
 | **Tecnologia** | **Funcionalidade** |
 |----------------|---------------------|
 | **React**      | Desenvolvimento do frontend e criação de interfaces dinâmicas. |
@@ -278,7 +308,7 @@ Também foi implementado um chatbot para alterar o status das atividades para �
 | **Ollama**     | Execução dos modelos utilizados no chatbot. |
 | **Git**        | Versionamento e colaboração entre os membros da equipe. |
 
-### 👨‍💻 Minhas Entregas no Projeto   
+### 👨‍💻 Contribuições Pessoais   
 Atuando como **membro da equipe de desenvolvimento**, contribuí para as tarefas práticas do frontend e backend do sistema.  
 Criação do protótipo no FIGMA e da identidade visual do projeto.  
 Participei da criação e ajuste de componentes em React, incluindo correções de comportamento e melhorias na interface.  
@@ -304,30 +334,9 @@ Além disso, participei da modelagem do banco de dados e da definição dos flux
 [◀ Voltar](https://github.com/MatheusAndrade1999/TG1-Portifolio/tree/main)
 
 ---
-
-# 🧠 Habilidades
-
-## 🧩 Hard Skills
-- React, Node.js, TypeScript, JavaScript  
-- PostgreSQL, MySQL, Firebase  
-- Modelagem de dados e implementação de CRUD  
-- Prototipação no Figma  
-- Versionamento com Git
-
-## 🤝 Soft Skills
-- Liderança e visão de produto  
-- Comunicação clara e alinhamento de expectativas  
-- Organização de backlog e priorização  
-- Adaptação a mudanças e resolução de conflitos
-
----
 </details>
 
-## 📞 Contato
 
-- 🌐 **LinkedIn:** [Matheus Andrade](https://www.linkedin.com/in/matheus-andrade-santos/)
-- 🐙 **GitHub:** [MatheusAndrade1999](https://github.com/MatheusAndrade1999)
-- ✉️ **E-mail:** [matheusluiz194@gmail.com](mailto:matheusluiz194@gmail.com)
 
 
 ---
