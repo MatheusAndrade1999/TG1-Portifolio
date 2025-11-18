@@ -11,7 +11,7 @@
 </div>
 
 Com experiência em desenvolvimento web, suporte técnico e análise de dados, sou um profissional em constante evolução, buscando integrar tecnologia e soluções inovadoras. 
-Atualmente, atuo como Estagiário Analista de Dados na DM, onde desenvolvo relatórios, dashboards e analiso informações para impulsionar melhorias, utilizando ferramentas como Excel, SQL, Power BI e Python.
+Atualmente, atuo como Estagiário Analista de Planejamento na DM, onde desenvolvo relatórios, dashboards e analiso informações para impulsionar melhorias, utilizando ferramentas como Excel, SQL, Power BI e Python.
 
 ---
 
@@ -29,8 +29,9 @@ Atuo com um olhar estratégico e orientado a resultados, buscando sempre aprimor
 
 # Histórico Profissional
 
-LOREM IPSUM
+Estágiario Analista de Planejamento - Empresa DM - 02/2025 até o momento
 
+Atuação focada no planejamento de operações, com análise de dados, desenvolvimento de dashboards, elaboração de escalas e geração de insights voltados à otimização do atendimento.
 
 ## 📞 Contato
 
@@ -100,11 +101,7 @@ O projeto consistiu na construção de uma aplicação web para **capacitação 
 ---
 
 ### 👨‍💻 Contribuições Pessoais 
-Participei de forma integral no desenvolvimento do front-end do projeto (utilizando CSS e HTML). Fui responsável pela implementação completa da página de avaliação PACER, estruturando um sistema de avaliação baseado em múltiplas checkboxes, permitindo que o usuário atribuísse notas de forma simples e selecionasse o membro da equipe a ser avaliado (Protótipo feito no FIGMA).
-
-Além disso, contribuí na criação da funcionalidade de envio das avaliações PACER por e-mail, ampliando a utilidade prática da ferramenta. Também desenvolvi a logomarca oficial do ScrumTutor (Utilizando o FIGMA) e atuei de maneira ativa nas decisões relacionadas ao front-end, oferecendo direcionamentos visuais, sugestões de usabilidade e aprimoramentos.
-
-Por fim, trabalhei continuamente para tornar o site totalmente responsivo, garantindo uma navegação consistente em diferentes dispositivos e resoluções.
+Participei de forma integral no desenvolvimento do front-end do projeto (utilizando CSS e HTML). Fui responsável pela implementação completa da página de avaliação PACER, estruturando um sistema de avaliação baseado em múltiplas checkboxes, que permite ao usuário atribuir notas de forma simples e selecionar o membro da equipe a ser avaliado (Protótipo feito no Figma). Além disso, contribuí na criação da funcionalidade de envio das avaliações PACER por e-mail, ampliando a utilidade prática da ferramenta. Desenvolvi também a logomarca oficial do ScrumTutor (Utilizando o Figma) e atuei de maneira ativa nas decisões relacionadas ao front-end, oferecendo direcionamentos visuais, sugestões de usabilidade e aprimoramentos. Por fim, trabalhei continuamente para tornar o site totalmente responsivo, garantindo uma navegação consistente em diferentes dispositivos e resoluções.
 
 ### 📚 Hard Skills
 
@@ -165,10 +162,7 @@ O sistema também permite a utilização de diferentes modelos de linguagem, tor
 ---
 
 ### 👨‍💻 Contribuições Pessoais  
-Atuei como **Product Owner**, conduzindo a definição clara das necessidades do cliente, priorizando o backlog e garantindo que cada entrega estivesse alinhada ao valor esperado pela empresa parceira.  
-Fui responsável por transformar demandas em requisitos estruturados, acompanhar a capacidade do time e assegurar que as funcionalidades planejadas fossem entregues com qualidade.  
-Além disso cuidei da parte visual, criação de protótipo no figma e toda a identidade visual do projeto, sua logo e cores utilizadas.  
-Criei também a sidebar da aplicação utilizando Java.
+Atuei como Product Owner (PO), conduzindo a definição clara das necessidades do cliente, priorizando o backlog e garantindo que cada entrega estivesse alinhada ao valor esperado pela empresa parceira. Fui responsável por transformar demandas em requisitos estruturados, acompanhar a capacidade do time e assegurar que as funcionalidades planejadas fossem entregues com qualidade. Além disso, cuidei da parte visual, incluindo a criação de protótipo no Figma e toda a identidade visual do projeto (logo e paleta de cores utilizadas). Criei também a sidebar da aplicação utilizando Java.
 
 ---
 
@@ -204,7 +198,7 @@ Criei também a sidebar da aplicação utilizando Java.
 
 ---
 
-### 🚧 Contribuições Pessoais  
+### 🚧 Problema 
 O time de Recursos Humanos da empresa parceira enfrentava limitações para acompanhar o clima organizacional e entender o nível de satisfação dos colaboradores. A falta de um processo sistematizado de coleta de feedback e as falhas na comunicação interna dificultavam a leitura das percepções da equipe, ocasionando perda de engajamento e afetando a colaboração entre os setores.
 
 ---
@@ -247,7 +241,7 @@ Além disso, esse modo apresenta gráficos comparativos, permitindo visualizar a
 ---
 
 ### 👨‍💻 Contribuições Pessoais  
-Atuei de forma predominante no desenvolvimento do front-end do sistema, utilizando principalmente **React**. Conduzi a **prototipação completa** da aplicação, elaborei a **identidade visual**, defini a **paleta de cores** e desenvolvi a **logo** oficial do projeto. Minhas contribuições envolveram desde a concepção da experiência do usuário até a implementação visual das principais telas.
+Atuei de forma predominante no desenvolvimento do front-end do sistema, utilizando principalmente React. Conduzi a prototipação completa da aplicação, elaborei a identidade visual, defini a paleta de cores e desenvolvi a logo oficial do projeto. Minhas contribuições envolveram desde a concepção da experiência do usuário (UX) até a implementação visual das principais telas.
 
 ---
 
@@ -309,11 +303,8 @@ Também foi implementado um chatbot para alterar o status das atividades para �
 | **Git**        | Versionamento e colaboração entre os membros da equipe. |
 
 ### 👨‍💻 Contribuições Pessoais   
-Atuando como **membro da equipe de desenvolvimento**, contribuí para as tarefas práticas do frontend e backend do sistema.  
-Criação do protótipo no FIGMA e da identidade visual do projeto.  
-Participei da criação e ajuste de componentes em React, incluindo correções de comportamento e melhorias na interface.  
-Implementei o CRUD das entidades **Tarefas** e **Subtarefas**, com suas rotas, schemas e relações, garantindo que as estruturas refletissem corretamente as regras de negócio.  
-Além disso, participei da modelagem do banco de dados e da definição dos fluxos lógicos vinculados ao funcionamento do sistema.
+Atuando como membro da equipe de desenvolvimento, contribuí para as tarefas práticas do front-end e back-end do sistema. Fui responsável pela criação do protótipo no Figma e da identidade visual do projeto. Participei da criação e ajuste de componentes em React, incluindo correções de comportamento e melhorias na interface. Implementei o CRUD das entidades Tarefas e Subtarefas, com suas rotas, schemas e relações, garantindo que as estruturas refletissem corretamente as regras de negócio. Além disso, participei da modelagem do banco de dados e da definição dos fluxos lógicos vinculados ao funcionamento do sistema.
+
 
 #### 📚 Hard Skills
 
