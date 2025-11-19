@@ -9,10 +9,6 @@
 </kbd>
 
 </div>
-
-Com experiência em desenvolvimento web, suporte técnico e análise de dados, sou um profissional em constante evolução, buscando integrar tecnologia e soluções inovadoras. 
-Atualmente, atuo como Estagiário Analista de Planejamento na DM, onde desenvolvo relatórios, dashboards e analiso informações para impulsionar melhorias, utilizando ferramentas como Excel, SQL, Power BI e Python.
-
 ---
 
 ## 📌 Sumário
