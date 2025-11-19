@@ -37,8 +37,6 @@ Atuação focada no planejamento de operações, com análise de dados, desenvol
 
 # Principais Conhecimentos
 
-# 🧠 Habilidades
-
 ## 🧩 Hard Skills
 - React, Node.js, TypeScript, JavaScript  
 - PostgreSQL, MySQL  
@@ -46,13 +44,6 @@ Atuação focada no planejamento de operações, com análise de dados, desenvol
 - Prototipação no Figma  
 - Versionamento com Git
 - Python voltado a dados (Pandas e Openpyxl)
-
-## 🤝 Soft Skills
-- Liderança e visão de produto  
-- Comunicação clara e alinhamento de expectativas  
-- Organização de backlog e priorização  
-- Adaptação a mudanças e resolução de conflitos
-
 
 ---
 
