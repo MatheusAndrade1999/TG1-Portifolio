@@ -21,7 +21,9 @@
 
 # 📘 Sobre Mim
 
-Atuo com um olhar estratégico e orientado a resultados, buscando sempre aprimorar processos, construir soluções escaláveis e colaborar com equipes de forma organizada e objetiva. Acredito que tecnologia só é poderosa quando realmente melhora a experiência das pessoas — e é isso que me motiva a evoluir continuamente.
+Tenho foco em análise de dados e busco aprimorar continuamente minhas competências em ferramentas de BI, modelagem e manipulação de dados, com ênfase no uso de Python. Também possuo sólida experiência em prototipagem, edição de imagens e criação de identidades visuais, já aplicada em projetos profissionais como freelancer.
+
+Minha trajetória inclui atuação em desenvolvimento web, suporte técnico e análise de dados, sempre orientada por evolução contínua e integração de tecnologia com soluções inovadoras. Atualmente, sou Estagiário Analista de Dados na DM, onde desenvolvo relatórios, dashboards e realizo análises que impulsionam melhorias operacionais e estratégicas, utilizando Excel, SQL, Power BI e Python como principais ferramentas.
 
 # Histórico Profissional
 
@@ -88,24 +90,25 @@ O projeto consistiu na construção de uma aplicação web para **capacitação 
 ---
 
 ### 👨‍💻 Contribuições Pessoais 
-Participei de forma integral no desenvolvimento do front-end do projeto (utilizando CSS e HTML). Fui responsável pela implementação completa da página de avaliação PACER, estruturando um sistema de avaliação baseado em múltiplas checkboxes, que permite ao usuário atribuir notas de forma simples e selecionar o membro da equipe a ser avaliado (Protótipo feito no Figma). Além disso, contribuí na criação da funcionalidade de envio das avaliações PACER por e-mail, ampliando a utilidade prática da ferramenta. Desenvolvi também a logomarca oficial do ScrumTutor (Utilizando o Figma) e atuei de maneira ativa nas decisões relacionadas ao front-end, oferecendo direcionamentos visuais, sugestões de usabilidade e aprimoramentos. Por fim, trabalhei continuamente para tornar o site totalmente responsivo, garantindo uma navegação consistente em diferentes dispositivos e resoluções.
+Participei de forma integral no desenvolvimento do front-end do projeto (utilizando CSS e HTML). Fui responsável pela implementação completa da página de avaliação PACER (Uma avaliação que vai de 0 a 3 para medir o desempenho de todos da equipe, incluindo Scrum Master e Product Owner além do Time de Desenvolvimento), estruturando um sistema de avaliação baseado em múltiplas checkboxes, que permite ao usuário atribuir notas de forma simples e selecionar o membro da equipe a ser avaliado (Protótipo feito no Figma). Além disso, contribuí na criação da funcionalidade de envio das avaliações PACER por e-mail, ampliando a utilidade prática da ferramenta. Desenvolvi também a logomarca oficial do ScrumTutor (Utilizando o Figma) e atuei de maneira ativa nas decisões relacionadas ao front-end, oferecendo direcionamentos visuais, sugestões de usabilidade e aprimoramentos. Por fim, trabalhei continuamente para tornar o site totalmente responsivo, garantindo uma navegação consistente em diferentes dispositivos e resoluções.
 
 ### 📚 Hard Skills
 
 | Tecnologia | Nível                | Descrição                                                                |
 |------------|-----------------------|--------------------------------------------------------------------------|
-| **HTML**   | Autônomo             | Construção semântica e acessível de páginas.                             |
-| **CSS**    | Autônomo             | Desenvolvimento de layouts responsivos (Flexbox/Grid).                   |
-| **Python** | Com apoio             | Lógica de backend.                                                        |
-| **Git**    | Com apoio             | Versionamento, branches e integração entre equipes.                      |
+| **HTML**   | Faço com autonomia             | Construção semântica e acessível de páginas.                             |
+| **CSS**    | Faço com autonomia             | Desenvolvimento de layouts responsivos (Flexbox/Grid).                   |
+| **Python** | Faço com ajuda             | Lógica de backend.                                                        |
+| **Git**    | Faço com ajuda             | Versionamento, branches e integração entre equipes.                      |
 | **Figma**  | Consigo ensinar       | Criação de protótipos e interfaces.                                      |
 
 ---
 
 ### 🤝 Soft Skills  
 - **Comunicação:** Presença ativa nas reuniões semanais e apresentações de sprint, contribuindo para o alinhamento de expectativas e para a interlocução eficiente entre requisitos técnicos e necessidades do cliente.  
-- **Colaboração:** Participação nas decisões de identidade visual, propondo melhorias de layout, combinações de cores e ajustes estéticos que tornaram a interface mais agradável e intuitiva para o usuário.  
-- **Organização:** Entrega consistente das atividades previstas nas sprints, com priorização adequada do backlog e gestão cuidadosa das demandas do projeto.
+- **Colaboração:** Participação nas decisões de identidade visual, propondo melhorias de layout, combinações de cores e ajustes estéticos que tornaram a interface mais agradável e intuitiva para o usuário.
+    Em uma das reuniões eu pensei no nome do app e apresentei a equipe, sendo aceito, criei a logo e começamos a tratar o app que antes era somente "API", como ScrumTutor.
+- **Organização:** Entrega consistente das atividades previstas nas sprints, com priorização adequada do backlog e gestão cuidadosa das demandas do projeto, nessa API comecei a utilizar formas de organizar as tarefas.
 
 ---
 
@@ -157,16 +160,17 @@ Atuei como Product Owner (PO), conduzindo a definição clara das necessidades d
 
 | Tecnologia      | Nível             | Descrição                                                        |
 |-----------------|-------------------|------------------------------------------------------------------|
-| **Java**        | Com apoio         | Ajuda na construção da interface e sidebar                       |
+| **Java**        | Faço uso com ajuda         | Ajuda na construção da interface e sidebar                       |
 | **MySQL**       | Ouvi falar        | Modelagem inicial de tabelas                                     |
 | **Figma**       | Consigo Ensinar   | Protótipo e definição de cores e formato da tela.                |
-| **Git**         | Autônomo          | Versionamento, criação do backlog, organização de branches e colaboração no repositório. |
+| **Git**         | Faço uso com autonomia          | Versionamento, criação do backlog, organização de branches e colaboração no repositório. |
 
 ---
 
 ### 🤝 Soft Skills  
 - **Liderança:** Capacidade de direcionar o time com foco em valor, organizar prioridades e promover alinhamento contínuo sobre objetivos e expectativas.  
-- **Comunicação:** Forte habilidade de intermediar conversas entre todas as partes envolvidas, garantindo clareza nas necessidades, transparência nos avanços e entendimento compartilhado das decisões.  
+- **Comunicação:** Forte habilidade de intermediar conversas entre todas as partes envolvidas, garantindo clareza nas necessidades, transparência nos avanços e entendimento compartilhado das decisões.
+   Quando surgiam dúvidas da equipe eu me comunicava diretamente com o cliente pra entender a necessidade dele relacionado ao assunto da dúvida.   
 - **Visão de Produto:** Olhar estratégico para identificar o que gera valor, estruturar requisitos e orientar o desenvolvimento para uma experiência consistente e centrada no usuário.  
 - **Proatividade:** Atitude ativa na antecipação de necessidades, busca por melhorias e apoio ao time para manter o ritmo das entregas e a qualidade do produto.
 
@@ -236,13 +240,13 @@ Atuei de forma predominante no desenvolvimento do front-end do sistema, utilizan
 
 | Tecnologia     | Proficiência       | Descrição                                                                                                                   |
 |----------------|--------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| **React**      | Autônomo           | Criação de telas complexas (cadastro, formulários, dashboard), implementação de componentes, sidebar e integração com backend. |
-| **JavaScript** | Autônomo           | Desenvolvimento da lógica de interação entre componentes e integração com Axios para comunicação com o servidor.             |
-| **TypeScript** | Autônomo           | Uso de tipagem para garantir código mais robusto e organizado em formulários e rotas.                                       |
-| **Node.js**    | Com apoio          | Implementação de APIs, definição de rotas e interação com o banco de dados.                                                |
-| **PostgreSQL** | Com apoio          | Modelagem de relações entre entidades (usuários, equipes, formulários), e implementação de CRUD.                            |
-| **CSS / UI**   | Com apoio          | Ajustes de estilo, correção de bugs visuais e trabalho com Material UI.                                                     |
-| **Git**        | Autônomo           | Uso constante de branches, merges e versionamento do projeto colaborativo.                                                  |
+| **React**      | Faço com autonomia           | Criação de telas complexas (cadastro, formulários, dashboard), implementação de componentes, sidebar e integração com backend. |
+| **JavaScript** | Faço com autonomia           | Desenvolvimento da lógica de interação entre componentes e integração com Axios para comunicação com o servidor.             |
+| **TypeScript** | Faço com autonomia           | Uso de tipagem para garantir código mais robusto e organizado em formulários e rotas.                                       |
+| **Node.js**    | Faço com ajuda          | Implementação de APIs, definição de rotas e interação com o banco de dados.                                                |
+| **PostgreSQL** | Faço com ajuda          | Modelagem de relações entre entidades (usuários, equipes, formulários), e implementação de CRUD.                            |
+| **CSS / UI**   | Faço com ajuda          | Ajustes de estilo, correção de bugs visuais e trabalho com Material UI.                                                     |
+| **Git**        | Faço com autonomia           | Uso constante de branches, merges e versionamento do projeto colaborativo.                                                  |
 
 ---
 
@@ -250,7 +254,7 @@ Atuei de forma predominante no desenvolvimento do front-end do sistema, utilizan
 
 - **Comunicação:** Durante a criação do protótipo no Figma, identifiquei que o fluxo proposto não refletia corretamente as necessidades do RH. Apresentei ao time as inconsistências e sugeri uma nova organização das telas, o que levou à revisão do layout antes do desenvolvimento, evitando retrabalho.  
 - **Trabalho em equipe:** Ao integrar o cadastro de usuários com o backend, surgiram erros devido ao formato dos dados enviados. Trabalhei junto com o desenvolvedor responsável pelas rotas, ajustando o payload e garantindo que a funcionalidade fosse concluída sem bloquear outras entregas.  
-- **Gestão do tempo:** Em uma semana de múltiplas demandas — implementação da sidebar, ajustes visuais e correções no Material UI — organizei minhas tarefas em prioridades e microentregas, conseguindo finalizar tudo dentro do prazo da sprint.  
+- **Gestão do tempo:** Em uma semana de múltiplas demandas — implementação da sidebar, ajustes visuais e correções no Material UI — organizei minhas tarefas em prioridades e microentregas, conseguindo finalizar tudo dentro do prazo da sprint.
 - **Adaptabilidade:** Durante o desenvolvimento dos formulários, o cliente alterou os campos e o comportamento esperado da tela. Ajustei rapidamente o componente e o layout para atender ao novo requisito sem impactar o andamento geral do projeto.
 
 ---
@@ -297,12 +301,12 @@ Atuando como membro da equipe de desenvolvimento, contribuí para as tarefas pr�
 
 | Tecnologia     | Proficiência       | Descrição                                                                                         |
 |----------------|--------------------|-----------------------------------------------------------------------------------------------------|
-| **React**      | Com apoio          | Criação de interfaces, componentes reutilizáveis e integração com APIs.                            |
-| **Node.js**    | Autônomo           | Estruturação de rotas, manipulação de dados e suporte ao backend.                                  |
-| **JavaScript** | Autônomo           | Construção de lógicas, componentes dinâmicos e integrações com serviços externos.                  |
-| **TypeScript** | Autônomo           | Aplicação de tipagem estática, organização estrutural e boas práticas.                              |
-| **PostgreSQL** | Com apoio          | Modelagem de dados, criação de relacionamentos e implementação das regras de negócio.              |
-| **Git**        | Autônomo           | Controle de versão, fluxo de branches, resolução de conflitos e colaboração eficiente.             |
+| **React**      | Faço com ajuda          | Criação de interfaces, componentes reutilizáveis e integração com APIs.                            |
+| **Node.js**    | Faço com autonomia           | Estruturação de rotas, manipulação de dados e suporte ao backend.                                  |
+| **JavaScript** | Faço com autonomia           | Construção de lógicas, componentes dinâmicos e integrações com serviços externos.                  |
+| **TypeScript** | Faço com autonomia           | Aplicação de tipagem estática, organização estrutural e boas práticas.                              |
+| **PostgreSQL** | Faço com ajuda          | Modelagem de dados, criação de relacionamentos e implementação das regras de negócio.              |
+| **Git**        | Faço com autonomia           | Controle de versão, fluxo de branches, resolução de conflitos e colaboração eficiente.             |
 
 #### 🤝 Soft Skills
 
