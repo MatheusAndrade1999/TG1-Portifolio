@@ -3,13 +3,11 @@
 # 🧑‍💼 **Matheus Luiz de Andrade Santos**
 
 <kbd>
-  <img src="https://github.com/user-attachments/assets/6fa2015c-b7f4-4eef-a95b-57f4d06589d8" 
-       width="200" 
+  <img src="https://github.com/user-attachments/assets/60b93381-9884-4655-be14-0f2b1dbe288b"
+       width="300" 
        style="border-radius: 12px;">
 </kbd>
-
 </div>
----
 
 ## 📌 Sumário
 - [Sobre Mim](#sobre-mim)
@@ -318,7 +316,138 @@ Atuando como membro da equipe de desenvolvimento, contribuí para as tarefas pr�
 ---
 </details>
 
+### 📅 Semestre 2025/2
+<details>
+  
+**Empresa:** Visiona  
+**Área de atuação:** Geotecnologia e monitoramento espacial
 
+---
 
+### 🚧 Problema  
+A empresa parceira enfrentava dificuldades em monitorar e registrar ocorrências geográficas em tempo real, bem como em identificar proximidade entre eventos e usuários. A ausência de uma ferramenta centralizada dificultava a análise espacial dos dados e comprometia a capacidade de resposta a situações críticas.
+
+---
+
+### 💡 Solução  
+Foi desenvolvida uma aplicação mobile integrada a um backend capaz de registrar ocorrências geolocalizadas e gerar alertas com base na proximidade do usuário.  
+A solução permite visualizar eventos em mapa, cadastrar novas ocorrências e receber notificações relevantes conforme a localização, tornando o processo mais dinâmico e orientado a dados espaciais.
+
+🔗 **Repositório:**  
+[Phoenix Team – GeoMaps](https://github.com/Phoenix-Team-Fatec/geo-maps)
+
+---
+
+### 🛠️ Tecnologias Utilizadas
+
+| Tecnologia     | Funcionalidade                                                                 |
+|----------------|-------------------------------------------------------------------------------|
+| **React Native (Expo)** | Desenvolvimento da aplicação mobile multiplataforma.              |
+| **TypeScript** | Tipagem estática e organização do código.                                     |
+| **FastAPI**    | Criação de APIs performáticas para comunicação com o frontend.                |
+| **MongoDB**    | Armazenamento de dados não estruturados relacionados às ocorrências.          |
+| **Python**     | Implementação das regras de negócio no backend.                               |
+| **Git**        | Versionamento e colaboração entre os membros do time.                         |
+
+---
+
+### 👨‍💻 Contribuições Pessoais  
+Atuei como desenvolvedor no time, com foco principal no front-end da aplicação mobile. Fui responsável pela prototipação das interfaces e pela criação de diversas telas, garantindo consistência visual e usabilidade.  
+Além disso, realizei a integração entre o front-end e o back-end, assegurando a correta comunicação com as APIs e o funcionamento das funcionalidades relacionadas ao cadastro e visualização de ocorrências geográficas.
+
+---
+
+### 📚 Hard Skills
+
+| Tecnologia              | Proficiência       | Descrição                                                                 |
+|-------------------------|--------------------|---------------------------------------------------------------------------|
+| **React Native**        | Faço com autonomia | Criação de telas, navegação e integração com APIs.                         |
+| **TypeScript**          | Faço com autonomia | Tipagem e organização estrutural do código.                                |
+| **Integração API (REST)** | Faço com autonomia | Consumo de endpoints e tratamento de dados no frontend.                    |
+| **Git**                 | Faço com autonomia | Controle de versão e colaboração em equipe.                                |
+
+---
+
+### 🤝 Soft Skills  
+
+- **Comunicação:** Atuei alinhando constantemente com o time de backend para garantir que a integração das APIs ocorresse de forma correta, reduzindo retrabalho e inconsistências.  
+- **Visão de produto:** Durante a prototipação, busquei estruturar as telas de forma intuitiva, facilitando a navegação e a interpretação dos dados geográficos pelo usuário.  
+- **Colaboração:** Trabalhei em conjunto com outros desenvolvedores para validar fluxos de uso e ajustar comportamentos da aplicação conforme os testes.  
+- **Adaptabilidade:** Ajustei rapidamente as telas e integrações conforme mudanças nos endpoints e requisitos ao longo das sprints.
+
+---
+
+[◀ Voltar](https://github.com/MatheusAndrade1999/TG1-Portifolio/tree/main)
+
+---
+</details>
+
+### 📅 Semestre 2026/1
+<details>
+  
+**Empresa:** DomRock 
+**Área de atuação:** Tecnologia da Informação com foco em inteligência artificial e análise de dados.
+
+---
+
+### 🚧 Problema  
+A empresa parceira enfrentava dificuldades na definição, padronização e rastreabilidade de regras de negócio utilizadas em processos internos, especialmente relacionadas a cálculos e critérios variáveis. A ausência de uma estrutura clara dificultava a manutenção dessas regras, gerava inconsistências nos resultados e aumentava a dependência de conhecimento técnico para alterações.
+
+---
+
+### 💡 Solução  
+Foi desenvolvida uma aplicação capaz de interpretar e estruturar regras de negócio a partir de entradas em linguagem natural, permitindo maior flexibilidade e autonomia na definição dos critérios.  
+A solução contempla funcionalidades como cadastro, versionamento, avaliação e visualização de regras, além de mecanismos de observabilidade e análise, promovendo maior controle e confiabilidade sobre os resultados gerados.
+
+🔗 **Repositório:**  
+[Phoenix Team – API 6](https://github.com/Phoenix-Team-Fatec/API_6)
+
+---
+
+### 🛠️ Tecnologias Utilizadas
+
+| Tecnologia     | Funcionalidade                                                                 |
+|----------------|-------------------------------------------------------------------------------|
+| **React**      | Desenvolvimento do frontend e interfaces do sistema.                          |
+| **TypeScript** | Tipagem estática e organização do código.                                     |
+| **Python**     | Implementação das regras de negócio e integração com modelos de linguagem.    |
+| **FastAPI**    | Criação de APIs para comunicação entre frontend e backend.                    |
+| **PostgreSQL** | Persistência e organização das regras e históricos.                           |
+| **LLM (IA)**   | Interpretação de linguagem natural para geração de regras.                    |
+| **Git**        | Versionamento e colaboração entre os membros do time.                         |
+
+---
+
+### 👨‍💼 Contribuições Pessoais  
+Atuei como Product Owner, sendo responsável por definir e priorizar o backlog do produto, garantindo alinhamento entre as necessidades do cliente e as entregas do time.  
+Realizei o levantamento e detalhamento de requisitos, estruturando user stories e critérios de aceitação de forma clara e objetiva.  
+Conduzi a comunicação entre stakeholders e equipe técnica, acompanhei a evolução das sprints e validei as entregas, assegurando que as funcionalidades estivessem alinhadas aos objetivos do projeto e gerassem valor real.
+
+---
+
+### 📚 Hard Skills
+
+| Tecnologia / Prática        | Proficiência       | Descrição                                                                 |
+|-----------------------------|--------------------|---------------------------------------------------------------------------|
+| **Gestão de Backlog**       | Faço com autonomia | Priorização e organização de demandas orientadas a valor.                 |
+| **Levantamento de Requisitos** | Faço com autonomia | Tradução de necessidades de negócio em funcionalidades claras.      |
+| **Scrum / Metodologias Ágeis** | Faço com autonomia | Condução e acompanhamento de sprints e entregas incrementais.      |
+| **Documentação de Produto** | Faço com autonomia | Escrita de user stories e critérios de aceitação.                         |
+
+---
+
+### 🤝 Soft Skills  
+
+- **Liderança:** Direcionei o time com foco em entregas de valor, garantindo clareza nas prioridades e objetivos.  
+- **Comunicação:** Atuei como ponte entre stakeholders e equipe técnica, assegurando entendimento comum das demandas.  
+- **Tomada de decisão:** Priorizei funcionalidades com base em impacto e viabilidade dentro das sprints.  
+- **Visão de produto:** Estruturei o desenvolvimento com foco em consistência, escalabilidade e valor para o usuário final.
+
+---
+
+[◀ Voltar](https://github.com/MatheusAndrade1999/TG1-Portifolio/tree/main)
+
+---
+</details>
 
 ---
