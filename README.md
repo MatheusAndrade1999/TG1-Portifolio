@@ -19,6 +19,8 @@
 
 # 📘 Sobre Mim
 
+Desde cedo, sempre tive interesse por tecnologia e o objetivo de ingressar em uma faculdade pública. A escolha pela FATEC uniu esses dois propósitos, marcando o início da minha formação focada em desenvolvimento contínuo e atuação estratégica na área de tecnologia.
+
 Tenho foco em análise de dados e busco aprimorar continuamente minhas competências em ferramentas de BI, modelagem e manipulação de dados, com ênfase no uso de Python. Também possuo sólida experiência em prototipagem, edição de imagens e criação de identidades visuais, já aplicada em projetos profissionais como freelancer.
 
 Minha trajetória inclui atuação em desenvolvimento web, suporte técnico e análise de dados, sempre orientada por evolução contínua e integração de tecnologia com soluções inovadoras. Atualmente, sou Estagiário Analista de Dados na DM, onde desenvolvo relatórios, dashboards e realizo análises que impulsionam melhorias operacionais e estratégicas, utilizando Excel, SQL, Power BI e Python como principais ferramentas.
